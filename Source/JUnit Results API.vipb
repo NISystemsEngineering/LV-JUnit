@@ -1,7 +1,7 @@
-<VI_Package_Builder_Settings Version="0.6" Created_Date="2016-07-18 17:42:18" Modified_Date="2017-05-17 17:07:52" Creator="Allen C Smith" Comments="" ID="1440df8e62a8bbe6a156581992a21d20">
+<VI_Package_Builder_Settings Version="0.6" Created_Date="2016-07-18 17:42:18" Modified_Date="2017-05-18 10:56:59" Creator="Allen C Smith" Comments="" ID="35594c2c1016b4d27d44993b6220327d">
   <Library_General_Settings>
     <Package_File_Name>ni_lib_JUnit_Results_API</Package_File_Name>
-    <Library_Version>1.0.1.5</Library_Version>
+    <Library_Version>1.0.1.6</Library_Version>
     <Auto_Increment_Version>false</Auto_Increment_Version>
     <Library_Source_Folder>.</Library_Source_Folder>
     <Library_Output_Folder>..\Exports</Library_Output_Folder>
@@ -33,7 +33,7 @@
       <Description>Initial release.</Description>
       <Copyright/>
       <Packager>NI Systems Engineering</Packager>
-      <URL/>
+      <URL>https://github.com/NISystemsEngineering/LV-JUnit</URL>
       <Release_Notes>Initial release</Release_Notes>
     </Description>
     <Destinations>
@@ -297,7 +297,7 @@
         <Path>Add Error.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>26EC2E3A34555985AB586928FFB9ADB4</GUID>
+      <GUID>3118691D8116FA37AC059249338129E1</GUID>
     </Functions_Palette_Data>
     <Controls_Palette_Data>
       <Parent_Palette_Index>-1</Parent_Palette_Index>
@@ -346,7 +346,7 @@
         <Path>Controls\Test Case Attributes.ctl</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>43C305781C1F655EAF69B47502A0631C</GUID>
+      <GUID>25578294F88327218F568A4061C01330</GUID>
     </Controls_Palette_Data>
   </Library_Palette_Definition>
 </VI_Package_Builder_Settings>
